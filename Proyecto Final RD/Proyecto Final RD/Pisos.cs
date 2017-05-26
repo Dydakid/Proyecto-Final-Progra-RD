@@ -8,19 +8,19 @@ namespace Proyecto_Final_RD
 {
     class Pisos: Propiedades
     {
-        string vhhn;
+        string vhvn;
         int habitaciones;
 
-        public string Vhhn
+        public string Vhvn
         {
             get
             {
-                return vhhn;
+                return vhvn;
             }
 
             set
             {
-                vhhn = value;
+                vhvn = value;
             }
         }
 
